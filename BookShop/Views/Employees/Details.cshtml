@@ -1,0 +1,50 @@
+﻿@model DataModelLayer.Employees
+
+@{
+    ViewBag.Title = "Search Result ...";
+    Layout = "~/Views/Shared/_MainTemp.cshtml";
+}
+
+<h2>Search Result ...</h2>
+
+<table style="font-family:Arial">
+    <tr>
+        <td>Employee ID: </td>
+        <td> @Model.Employee_ID</td>
+    </tr>
+
+    <tr>
+        <td>Employee First Name: </td>
+        <td> @Model.Emp_FName</td>
+    </tr>
+
+    <tr>
+        <td>Employee Last Name: </td>
+        <td> @Model.emp_LName</td>
+    </tr>
+
+    <tr>
+        <td> Job ID: </td>
+        <td> @Model.Job_ID</td>
+    </tr>
+
+    <tr>
+        <td> Branch: </td>
+        <td> @Model.Branch</td>
+    </tr>
+
+    <tr>
+        <td>Employee Phone: </td>
+        <td> @Model.Phone</td>
+    </tr>
+
+
+    <tr>
+        <td>Employee Salary: </td>
+        <td> @Model.Basic_Salary</td>
+    </tr>
+
+</table>
+@Html.ActionLink("Back to List", "GetAllEmps")
+
+

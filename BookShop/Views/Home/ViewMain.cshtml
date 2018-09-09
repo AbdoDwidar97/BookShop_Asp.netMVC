@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewBag.Title = "ViewMain";
+    Layout = "~/Views/Shared/_MainTemp.cshtml";
+}
+
+<h2>Welcome , @ViewData["User_FName"].ToString()</h2>
+
+<br>
+@Html.ActionLink("Add new User", "CreateUser")

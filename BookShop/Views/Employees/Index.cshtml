@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainTemp.cshtml";
+}
+
+<h2>Employees</h2>
+<br> <b> User Name: @ViewData["User_FName"].ToString() </b>
+<br> <b> User ID: @ViewData["User_ID"].ToString() </b> <br>
+<br> @Html.ActionLink("Add New employee","CreateEmp")

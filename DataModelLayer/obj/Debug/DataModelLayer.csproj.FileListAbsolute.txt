@@ -1,0 +1,4 @@
+I:\Web_Test\ASP.NET\BookShop\BookShop\DataModelLayer\bin\Debug\DataModelLayer.dll
+I:\Web_Test\ASP.NET\BookShop\BookShop\DataModelLayer\bin\Debug\DataModelLayer.pdb
+I:\Web_Test\ASP.NET\BookShop\BookShop\DataModelLayer\obj\Debug\DataModelLayer.dll
+I:\Web_Test\ASP.NET\BookShop\BookShop\DataModelLayer\obj\Debug\DataModelLayer.pdb

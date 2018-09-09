@@ -1,0 +1,7 @@
+I:\Web_Test\ASP.NET\BookShop\BookShop\BusinessLayer\bin\Debug\BusinessLayer.dll
+I:\Web_Test\ASP.NET\BookShop\BookShop\BusinessLayer\bin\Debug\BusinessLayer.pdb
+I:\Web_Test\ASP.NET\BookShop\BookShop\BusinessLayer\bin\Debug\DataModelLayer.dll
+I:\Web_Test\ASP.NET\BookShop\BookShop\BusinessLayer\bin\Debug\DataModelLayer.pdb
+I:\Web_Test\ASP.NET\BookShop\BookShop\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+I:\Web_Test\ASP.NET\BookShop\BookShop\BusinessLayer\obj\Debug\BusinessLayer.dll
+I:\Web_Test\ASP.NET\BookShop\BookShop\BusinessLayer\obj\Debug\BusinessLayer.pdb

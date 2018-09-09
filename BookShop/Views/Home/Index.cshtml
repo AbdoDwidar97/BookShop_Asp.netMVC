@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainTemp.cshtml";
+}
+
+<h2>Index</h2>
+
+<ul>
+    @foreach (String itr in (List<String>)ViewData["Listss"])
+    {
+       <li> @itr </li>
+    }
+</ul>
